@@ -3,4 +3,8 @@ public class HelloWorld {
         System.out.println("Hello Git!");
     }
 }
+<<<<<<< HEAD
 // Master main branch update
+=======
+// This is login feature
+>>>>>>> feature-login
